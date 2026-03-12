@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>OBU Modules</title>
+
+<style>
+
+body{
+font-family:Arial;
+background-image:url("background.jpg");
+background-size:cover;
+background-position:center;
+text-align:center;
+}
+
+h1{
+background:#333;
+color:white;
+padding:15px;
+}
+
+.module{
+background:rgba(255,255,255,0.9);
+margin:20px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
+
+button{
+padding:10px;
+margin:5px;
+border:none;
+background:blue;
+color:white;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:darkblue;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>OBU Learning Modules</h1>
+
+<div class="module">
+<h2>Applied Mathematics I</h2>
+<a href="Applied Mathematics I.pdf"><button>Bani PDF</button></a>
+<a href="Applied Mathematics I.pdf" download><button>Download</button></a>
+</div>
+
+<div class="module">
+<h2>Communicative English Language Skills II</h2>
+<a href="Communicative English Language Skills II merged.pdf"><button>Bani PDF</button></a>
+<a href="Communicative English Language Skills II merged.pdf" download><button>Download</button></a>
+</div>
+
+<div class="module">
+<h2>Civics</h2>
+<a href="Civic PPt OBU.ppt"><button>Bani File</button></a>
+<a href="Civic PPt OBU.ppt" download><button>Download</button></a>
+</div>
+
+<div class="module">
+<h2>History</h2>
+<a href="HISTORY OBU.pdf"><button>Bani PDF</button></a>
+<a href="HISTORY OBU.pdf" download><button>Download</button></a>
+</div>
+
+<div class="module">
+<h2>Anthropology</h2>
+<a href="Anthropology (Anth 1012 ) freshman co.pdf"><button>Bani PDF</button></a>
+<a href="Anthropology (Anth 1012 ) freshman co.pdf" download><button>Download</button></a>
+</div>
+
+<div class="module">
+<h2>Emerging Technologies</h2>
+<a href="Handout Emerging Technologies.pdf"><button>Bani PDF</button></a>
+<a href="Handout Emerging Technologies.pdf" download><button>Download</button></a>
+</div>
+
+<div class="module">
+<h2>Fundamental Programming</h2>
+<a href="Computer ( Fundamental ) Programming Obu.pdf"><button>Bani PDF</button></a>
+<a href="Computer ( Fundamental ) Programming Obu.pdf" download><button>Download</button></a>
+</div>
+
+</body>
+</html>
